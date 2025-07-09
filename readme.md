@@ -4,6 +4,8 @@ Door in de .github map copilot instructions te schrijven kan je copilot meer lat
 
 Zie de instructies, en de screenshots van hoe de agent reageert.
 
-![Code_hi400ByWg8.png]
-![Code_a4BuLvVoHr.png]
-![Code_wnnYqi3BPh.png]
+![im1](Code_hi400ByWg8.png)
+
+![im2](Code_a4BuLvVoHr.png)
+
+![im3](Code_wnnYqi3BPh.png)
